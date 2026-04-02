@@ -82,12 +82,15 @@ That's it! You have a working AI assistant in 2 minutes.
 
 **Guidance and Prompts**: The supervisor can issue instructions to improve agent behavior
 
-*Open Supervision Mode:
+*Open Supervision Mode*:
 ```json
 {
     "supervisor_mode": true
 }
 
+## Reference
+
+This project draws extensive reference from [nanobot](https://github.com/HKUDS/nanobot) and [Web Content Fetcher](https://github.com/shirenchuang/web-content-fetcher).
 
 ## Requirements
 OpenAI, scrapling, html2text
