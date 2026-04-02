@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.webp" alt="nanobot" width="500">
+  <img src="logo.webp" alt="nanobot" width="206">
   <h1>bash-claw: Ultra-Lightweight Personal AI Assistant</h1>
 </div>
 
@@ -48,7 +48,7 @@ bash-claw bridges the gap between "thinking" and "doing." It connects your favor
 
 Add or merge these **two parts** into your config (other options have defaults).
 
-*Set your API key* (e.g. OpenRouter, recommended for global users):
+*Set your API key* (OpenRouter):
 ```json
 {
     "apiKey": "sk-or-v1-xxx"
@@ -76,8 +76,10 @@ OpenAI, scrapling, html2text
 
 
 ## ⚠️ Important Legal Notice & Disclaimer
+
 **PLEASE READ CAREFULLY BEFORE INSTALLING.**
-**nanobot is for educational, research purposes only**
+
+**bash-claw is for educational, research purposes only**
 
 By downloading, installing, or using bash-claw ("The Software"), you explicitly agree to the following terms and conditions:
 
