@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="nanobot_logo.png" alt="nanobot" width="500">
+  <img src="logo.webp" alt="nanobot" width="500">
   <h1>bash-claw: Ultra-Lightweight Personal AI Assistant</h1>
 </div>
 
-🐈 ****bash-claw is an **ultra-lightweight** personal AI assistant inspired by [OpenClaw](https://github.com/openclaw/openclaw) and [nanobot](https://github.com/HKUDS/nanobot).
+🪲 ****bash-claw is an **ultra-lightweight** personal AI assistant inspired by [OpenClaw](https://github.com/openclaw/openclaw) and [nanobot](https://github.com/HKUDS/nanobot).
 
 **Stop chatting. Start doing.**
 bash-claw bridges the gap between "thinking" and "doing." It connects your favorite LLMs to your local machine, allowing them to execute commands, manage files, and automate workflows directly on your computer.
@@ -46,14 +46,14 @@ Add or merge these **two parts** into your config (other options have defaults).
 *Set your API key* (e.g. OpenRouter, recommended for global users):
 ```json
 {
-      "apiKey": "sk-or-v1-xxx"
+    "apiKey": "sk-or-v1-xxx"
 }
 ```
 
 *Set your model* (optionally pin a provider — defaults to auto-detection):
 ```json
 {
-      "model": "anthropic/claude-opus-4-5"
+    "model": "anthropic/claude-opus-4-5"
 }
 ```
 
