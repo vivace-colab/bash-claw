@@ -87,6 +87,8 @@ That's it! You have a working AI assistant in 2 minutes.
 {
     "supervisor_mode": true
 }
+```
+
 
 ## Reference
 
