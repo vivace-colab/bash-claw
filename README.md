@@ -70,6 +70,24 @@ python bash-claw.py
 
 That's it! You have a working AI assistant in 2 minutes.
 
+## Supervision Mode
+
+**Real-time Monitoring**: The supervisor observes agent's output, checking for:
+- Relevance to the conversation context
+- Consistency with previous statements
+- Compliance with safety and policy guidelines
+- Progress toward the user's goal
+
+**Direct Correction**: When an agent produces incorrect or inappropriate content, the supervisor can provide specific feedback to the agent for learning
+
+**Guidance and Prompts**: The supervisor can issue instructions to improve agent behavior
+
+*Open Supervision Mode:
+```json
+{
+    "supervisor_mode": true
+}
+
 
 ## Requirements
 OpenAI, scrapling, html2text
