@@ -44,7 +44,7 @@ bash-claw bridges the gap between "thinking" and "doing." It connects your favor
 > Set your API key in `~/bash-claw/config.json`.
 > Get API keys: [OpenRouter](https://openrouter.ai/keys) (Global)
 
-**2. Configure** (`~/.nanobot/config.json`)
+**2. Configure** (`~/bash-claw/config.json`)
 
 Add or merge these **two parts** into your config (other options have defaults).
 
